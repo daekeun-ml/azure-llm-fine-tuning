@@ -1,7 +1,7 @@
 # LLM Fine-tuning on Azure
 
 This hands-on walks you through fine-tuning an open source LLM on Azure and serving the fine-tuned model on Azure. It is intended for Data Scientists and ML engineers who have experience with fine-tuning but are unfamiliar with Azure ML.
-We are using the Microsoft `Phi-3-mini-4k-instruct`[https://huggingface.co/microsoft/Phi-3-mini-4k-instruct] model, but you can use it freely as long as it is a ㅔpublic liecnse LLM registered with Hugging Face.
+We are using the Microsoft `Phi-3-mini-4k-instruct`[https://huggingface.co/microsoft/Phi-3-mini-4k-instruct] model, but you can use it freely as long as it is a public liecnse LLM registered with Hugging Face.
 
 ## Contents
 
